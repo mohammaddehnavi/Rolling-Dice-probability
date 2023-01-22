@@ -5,14 +5,14 @@ Python3 GUI app for calculate Rolling Dice probability
 
 ```bash
 git clone https://github.com/mohammaddehnavi/Rolling-Dice-probability.git
+cd Rolling-Dice-probability
 ```
 ## Install virtual env 
 
 ```bash
 pip3 install virtualenv
-python3 -m venv rolling-dice-probability
-cd rolling-dice-probability
-source bin/activate
+python3 -m venv env-rolling-dice-probability
+source env-rolling-dice-probability/bin/activate
 ```
 
 ## Install requirements
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## RUN
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Change GUI
@@ -48,3 +48,7 @@ pip install auto-py-to-exe
 ## Run auto-py-to-exe for compile and build 
 auto-py-to-exe
 ```
+
+## application pics
+
+![Alt-Text](.Assets/main1.png)
