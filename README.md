@@ -51,4 +51,4 @@ auto-py-to-exe
 
 ## application pics
 
-![Alt-Text](.Assets/main1.png)
+![main1](./Assets/main1.png)
