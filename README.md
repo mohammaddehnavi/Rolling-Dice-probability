@@ -52,3 +52,5 @@ auto-py-to-exe
 ## application pics
 
 ![main1](./Assets/main1.png)
+![main1](./Assets/main2.png)
+![main1](./Assets/main3.png)
